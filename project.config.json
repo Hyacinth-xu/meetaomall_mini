@@ -1,0 +1,217 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.6.1",
+	"appid": "wx5fd25542cc4bfdfc",
+	"projectname": "fdsg",
+	"miniprogramRoot": "dist/wx/",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 24,
+			"list": [
+				{
+					"id": -1,
+					"name": "size",
+					"pathName": "pages/counter/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "登录页",
+					"pathName": "pages/login/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "index",
+					"pathName": "pages/index/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "地址",
+					"pathName": "pages/addressList/index",
+					"query": ""
+				},
+				{
+					"id": 4,
+					"name": "编辑地址",
+					"pathName": "pages/goodsPerson/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "购物车",
+					"pathName": "pages/car/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "填写订单",
+					"pathName": "pages/orderFilling/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "支付成功",
+					"pathName": "pages/orderFinish/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 8,
+					"name": "打卡排行",
+					"pathName": "pages/signSort/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "填写资料1/5",
+					"pathName": "pages/fillSelfSex/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 10,
+					"name": "填写资料2/5",
+					"pathName": "pages/fillSelfBorn/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 11,
+					"name": "填写资料3/5",
+					"pathName": "pages/fillSelfWeight/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "填写资料4/5",
+					"pathName": "pages/fillSelfWeek/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "腰围",
+					"pathName": "pages/fillSelfwaistline/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 14,
+					"name": "健康首页",
+					"pathName": "pages/fillFirst/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "fill健康",
+					"pathName": "pages/fillMiddle/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "体重曲线",
+					"pathName": "pages/fillcuver/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 17,
+					"name": "我的优惠券",
+					"pathName": "pages/coupon/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "单品优惠",
+					"pathName": "pages/couponDetails/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "体重建议",
+					"pathName": "pages/weightrecode/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "健康报告",
+					"pathName": "pages/webview/index",
+					"query": ""
+				},
+				{
+					"id": 21,
+					"name": "centerLink",
+					"pathName": "pages/centerLink/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "腰围",
+					"pathName": "pages/signSort/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "二级分类",
+					"pathName": "pages/couponProduct/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "index",
+					"pathName": "pages/scroll-line/index",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
